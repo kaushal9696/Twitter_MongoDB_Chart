@@ -20,10 +20,10 @@ Description about project: -
 ![alt text](https://github.com/kaushal9696/Twitter_MongoDB_Chart/blob/main/Output/Data_visualization.png)
 
 ### Chart ON Mongo Aggregation Query
-![alt text](https://github.com/kaushal9696/Twitter_MongoDB_Chart/blob/main/Output/Charts1.png)
+![plot](https://github.com/kaushal9696/Twitter_MongoDB_Chart/blob/main/Output/Charts1.png)
 
 ### Chart ON Mongo Aggregation Query
-![alt text](https://github.com/kaushal9696/Twitter_MongoDB_Chart/blob/main/Output/Charts2.png)
+![plot](https://github.com/kaushal9696/Twitter_MongoDB_Chart/blob/main/Output/Charts2.png)
 
 ### Aggregation Query Text - 1
 ![alt text](https://github.com/kaushal9696/Twitter_MongoDB_Chart/blob/main/Output/Aggr1.png)
