@@ -1,4 +1,4 @@
-# Twitter_MongoDB_Chart
+# [Docker + NoSQL] Twitter Data Processing and Data Modeling
 Building Semi-Structured Data Processing with NoSQL Database Server + Twitter Data Fetching + MongoDB Charts
 
 Description about project: - 
